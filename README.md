@@ -19,3 +19,11 @@ These Dashboard represents data :
 4.Average speed of answer
 
 5.Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
+
+Link for powerbi server:
+
+https://app.powerbi.com/groups/me/reports/3026c64b-40c2-4443-ba80-73c04d1a0564/ReportSection
+
+github:
+
+https://github.com/DarshaniZope/powerBi.git
